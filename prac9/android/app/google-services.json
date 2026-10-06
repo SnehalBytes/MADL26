@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "766775738380",
+    "firebase_url": "https://madl26-firebase-database-default-rtdb.firebaseio.com",
+    "project_id": "madl26-firebase-database",
+    "storage_bucket": "madl26-firebase-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766775738380:android:96c763f66b75f9fb68ee29",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPUtG6b0m9fDMZa_WxxRHb6lHloVDBFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
